@@ -5,7 +5,7 @@ However, App Academy is only the beginning. I plan on expanding my knowledge of 
 By the end of this journey, I want to have been a part of something that can make a real difference in tech or even the world.
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,flask,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,flask,react,sqlite,sequelize,)](https://skillicons.dev)
 <!--
 **jzumbrunn21/jzumbrunn21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
