@@ -4,6 +4,8 @@ I had always been good with computers, but never pursued anything professionally
 However, App Academy is only the beginning. I plan on expanding my knowledge of front-end frameworks like Angular and back-end frameworks like Django.
 By the end of this journey, I want to have been a part of something that can make a real difference in tech or even the world.
 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,flask,react)](https://skillicons.dev)
 <!--
 **jzumbrunn21/jzumbrunn21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
