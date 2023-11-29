@@ -12,7 +12,7 @@ By the end of this journey, I want to have been a part of something that can mak
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,flask,react,sqlite,sequelize,git)](https://skillicons.dev)
 
 
-- 🔭 I’m currently working on ... https://github.com/jzumbrunn21/API-project 
+- 🔭 I’m currently working on ... https://github.com/jzumbrunn21/Fibson
 - 🌱 I’m currently learning ... TypeScript and Angular
 - 👯 I’m looking to collaborate on ... studying DS&A
 - 🤔 I’m looking for help with ... technical interview prep
