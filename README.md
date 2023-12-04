@@ -13,7 +13,7 @@ By the end of this journey, I want to have been a part of something that can mak
 
 
 - 🔭 I’m currently working on ... https://github.com/jzumbrunn21/Fibson
-- 🌱 I’m currently learning ... TypeScript and Angular
+- 🌱 I’m currently learning ... Data Structures and Algorithms for interviewing
 - 👯 I’m looking to collaborate on ... studying DS&A
 - 🤔 I’m looking for help with ... technical interview prep
 - 📫 How to reach me: ... www.linkedin.com/in/josh-zumbrunn-622622274
