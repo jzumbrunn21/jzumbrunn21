@@ -1,7 +1,7 @@
 ### Hi there 👋 
 Hi. My name is Josh Zumbrunn. 
 
-As a full-stack engineer, I am passionate about learning new technologies and creating impactful applications. I enrolled in an intensive coding bootcamp called App Academy in March 2023, after being laid off from my truck driving job at Kroger. I saw this as an opportunity to pursue a career that would enrich my mind and challenge me more than ever before.
+As a full-stack engineer, I am passionate about learning new technologies and creating impactful applications. I enrolled in an intensive coding bootcamp called App Academy in March 2023 after being laid off from my truck driving job. I saw this as an opportunity to pursue a career that would enrich my mind and challenge me more than ever before.
 
 In just nine months, I mastered programming languages like JavaScript and Python, and built multiple full-stack projects using React & Redux, Flask, and Express.js. My goal is to expand my knowledge of front-end frameworks like Angular and back-end frameworks like Django, and to be part of a team that can make a real difference in tech or the world.
 
