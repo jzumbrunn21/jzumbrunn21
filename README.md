@@ -9,7 +9,7 @@ In just nine months, I mastered programming languages like JavaScript and Python
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,flask,react,sqlite,sequelize,git)](https://skillicons.dev)
 
 
-- 🔭 I’m currently working on ... https://github.com/jzumbrunn21/Fibson
+- 🔭 I’m currently working on ... Refactoring CSS into Material UI for https://github.com/jzumbrunn21/Fibson
 - 🌱 I’m currently learning ... Data Structures and Algorithms for interviewing
 - 👯 I’m looking to collaborate on ... studying DS&A
 - 🤔 I’m looking for help with ... technical interview prep
