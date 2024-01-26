@@ -6,7 +6,7 @@ As a full-stack engineer, I am passionate about learning new technologies and cr
 In just nine months, I mastered programming languages like JavaScript and Python, and built multiple full-stack projects using React, Redux, Flask, and Express.js. My goal is to expand my knowledge of web development and to be part of a team that can make a real difference in tech or the world.
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,flask,react,sqlite,sequelize,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,flask,react,materialui,sqlite,sequelize,git)](https://skillicons.dev)
 
 
 - 🔭 I’m currently working on ... Refactoring CSS into Material UI for https://github.com/jzumbrunn21/Fibson
